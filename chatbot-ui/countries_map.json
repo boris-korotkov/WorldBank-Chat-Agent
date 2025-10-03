@@ -1,0 +1,2562 @@
+[
+  {
+    "canonicalName": "World",
+    "iso3": "WLD",
+    "commonNames": [
+      "World"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "Afghanistan",
+    "iso3": "AFG",
+    "commonNames": [
+      "Afghanistan",
+      "Islamic State of Afghanistan"
+    ],
+    "incomeGroup": "Low income",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan"
+  },
+  {
+    "canonicalName": "Albania",
+    "iso3": "ALB",
+    "commonNames": [
+      "Albania",
+      "Republic of Albania"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Algeria",
+    "iso3": "DZA",
+    "commonNames": [
+      "Algeria",
+      "People's Democratic Republic of Algeria"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan"
+  },
+  {
+    "canonicalName": "American Samoa",
+    "iso3": "ASM",
+    "commonNames": [
+      "American Samoa"
+    ],
+    "incomeGroup": "High income",
+    "region": "East Asia & Pacific"
+  },
+  {
+    "canonicalName": "Andorra",
+    "iso3": "AND",
+    "commonNames": [
+      "Andorra",
+      "Principality of Andorra"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Angola",
+    "iso3": "AGO",
+    "commonNames": [
+      "Angola",
+      "People's Republic of Angola"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Antigua and Barbuda",
+    "iso3": "ATG",
+    "commonNames": [
+      "Antigua and Barbuda"
+    ],
+    "incomeGroup": "High income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "Argentina",
+    "iso3": "ARG",
+    "commonNames": [
+      "Argentina",
+      "Argentine Republic"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "Armenia",
+    "iso3": "ARM",
+    "commonNames": [
+      "Armenia",
+      "Republic of Armenia"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Aruba",
+    "iso3": "ABW",
+    "commonNames": [
+      "Aruba"
+    ],
+    "incomeGroup": "High income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "Australia",
+    "iso3": "AUS",
+    "commonNames": [
+      "Australia",
+      "Commonwealth of Australia"
+    ],
+    "incomeGroup": "High income",
+    "region": "East Asia & Pacific"
+  },
+  {
+    "canonicalName": "Austria",
+    "iso3": "AUT",
+    "commonNames": [
+      "Austria",
+      "Republic of Austria"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Azerbaijan",
+    "iso3": "AZE",
+    "commonNames": [
+      "Azerbaijan",
+      "Republic of Azerbaijan"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Bahamas, The",
+    "iso3": "BHS",
+    "commonNames": [
+      "Bahamas, The",
+      "Commonwealth of The Bahamas"
+    ],
+    "incomeGroup": "High income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "Bahrain",
+    "iso3": "BHR",
+    "commonNames": [
+      "Bahrain",
+      "Kingdom of Bahrain"
+    ],
+    "incomeGroup": "High income",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan"
+  },
+  {
+    "canonicalName": "Bangladesh",
+    "iso3": "BGD",
+    "commonNames": [
+      "Bangladesh",
+      "People's Republic of Bangladesh"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "South Asia"
+  },
+  {
+    "canonicalName": "Barbados",
+    "iso3": "BRB",
+    "commonNames": [
+      "Barbados"
+    ],
+    "incomeGroup": "High income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "Belarus",
+    "iso3": "BLR",
+    "commonNames": [
+      "Belarus",
+      "Republic of Belarus"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Belgium",
+    "iso3": "BEL",
+    "commonNames": [
+      "Belgium",
+      "Kingdom of Belgium"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Belize",
+    "iso3": "BLZ",
+    "commonNames": [
+      "Belize"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "Benin",
+    "iso3": "BEN",
+    "commonNames": [
+      "Benin",
+      "Republic of Benin"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Bermuda",
+    "iso3": "BMU",
+    "commonNames": [
+      "Bermuda",
+      "The Bermudas"
+    ],
+    "incomeGroup": "High income",
+    "region": "North America"
+  },
+  {
+    "canonicalName": "Bhutan",
+    "iso3": "BTN",
+    "commonNames": [
+      "Bhutan",
+      "Kingdom of Bhutan"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "South Asia"
+  },
+  {
+    "canonicalName": "Bolivia",
+    "iso3": "BOL",
+    "commonNames": [
+      "Bolivia",
+      "Bolivia, Plurinational State of",
+      "Plurinational State of Bolivia"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "Bosnia and Herzegovina",
+    "iso3": "BIH",
+    "commonNames": [
+      "Bosnia and Herzegovina"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Botswana",
+    "iso3": "BWA",
+    "commonNames": [
+      "Botswana",
+      "Republic of Botswana"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Brazil",
+    "iso3": "BRA",
+    "commonNames": [
+      "Brazil",
+      "Federative Republic of Brazil"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "British Virgin Islands",
+    "iso3": "VGB",
+    "commonNames": [
+      "British Virgin Islands"
+    ],
+    "incomeGroup": "High income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "Brunei Darussalam",
+    "iso3": "BRN",
+    "commonNames": [
+      "Brunei Darussalam"
+    ],
+    "incomeGroup": "High income",
+    "region": "East Asia & Pacific"
+  },
+  {
+    "canonicalName": "Bulgaria",
+    "iso3": "BGR",
+    "commonNames": [
+      "Bulgaria",
+      "Republic of Bulgaria"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Burkina Faso",
+    "iso3": "BFA",
+    "commonNames": [
+      "Burkina Faso"
+    ],
+    "incomeGroup": "Low income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Burundi",
+    "iso3": "BDI",
+    "commonNames": [
+      "Burundi",
+      "Republic of Burundi"
+    ],
+    "incomeGroup": "Low income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Cabo Verde",
+    "iso3": "CPV",
+    "commonNames": [
+      "Cabo Verde",
+      "Republic of Cabo Verde"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Cambodia",
+    "iso3": "KHM",
+    "commonNames": [
+      "Cambodia",
+      "Kingdom of Cambodia"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "East Asia & Pacific"
+  },
+  {
+    "canonicalName": "Cameroon",
+    "iso3": "CMR",
+    "commonNames": [
+      "Cameroon",
+      "Republic of Cameroon"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Canada",
+    "iso3": "CAN",
+    "commonNames": [
+      "Canada"
+    ],
+    "incomeGroup": "High income",
+    "region": "North America"
+  },
+  {
+    "canonicalName": "Cayman Islands",
+    "iso3": "CYM",
+    "commonNames": [
+      "Cayman Islands"
+    ],
+    "incomeGroup": "High income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "Central African Republic",
+    "iso3": "CAF",
+    "commonNames": [
+      "Central African Republic"
+    ],
+    "incomeGroup": "Low income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Chad",
+    "iso3": "TCD",
+    "commonNames": [
+      "Chad",
+      "Republic of Chad"
+    ],
+    "incomeGroup": "Low income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Channel Islands",
+    "iso3": "CHI",
+    "commonNames": [
+      "Channel Islands"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Chile",
+    "iso3": "CHL",
+    "commonNames": [
+      "Chile",
+      "Republic of Chile"
+    ],
+    "incomeGroup": "High income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "China",
+    "iso3": "CHN",
+    "commonNames": [
+      "China",
+      "People's Republic of China"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "East Asia & Pacific"
+  },
+  {
+    "canonicalName": "Colombia",
+    "iso3": "COL",
+    "commonNames": [
+      "Colombia",
+      "Republic of Colombia"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "Comoros",
+    "iso3": "COM",
+    "commonNames": [
+      "Comoros",
+      "Union of the Comoros"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Congo, Dem. Rep.",
+    "iso3": "COD",
+    "commonNames": [
+      "Congo, Dem. Rep.",
+      "Congo, Democratic Republic of",
+      "Democratic Republic of the Congo"
+    ],
+    "incomeGroup": "Low income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Congo, Rep.",
+    "iso3": "COG",
+    "commonNames": [
+      "Congo, Rep.",
+      "Congo, Republic of",
+      "Republic of Congo"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Costa Rica",
+    "iso3": "CRI",
+    "commonNames": [
+      "Costa Rica",
+      "Republic of Costa Rica"
+    ],
+    "incomeGroup": "High income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "C\u00f4te d'Ivoire",
+    "iso3": "CIV",
+    "commonNames": [
+      "C\u00f4te d'Ivoire",
+      "Republic of C\u00f4te d'Ivoire"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Croatia",
+    "iso3": "HRV",
+    "commonNames": [
+      "Croatia",
+      "Republic of Croatia"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Cuba",
+    "iso3": "CUB",
+    "commonNames": [
+      "Cuba",
+      "Republic of Cuba"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "Cura\u00e7ao",
+    "iso3": "CUW",
+    "commonNames": [
+      "Cura\u00e7ao"
+    ],
+    "incomeGroup": "High income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "Cyprus",
+    "iso3": "CYP",
+    "commonNames": [
+      "Cyprus",
+      "Republic of Cyprus"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Czechia",
+    "iso3": "CZE",
+    "commonNames": [
+      "Czech Republic",
+      "Czechia"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Denmark",
+    "iso3": "DNK",
+    "commonNames": [
+      "Denmark",
+      "Kingdom of Denmark"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Djibouti",
+    "iso3": "DJI",
+    "commonNames": [
+      "Djibouti",
+      "Republic of Djibouti"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan"
+  },
+  {
+    "canonicalName": "Dominica",
+    "iso3": "DMA",
+    "commonNames": [
+      "Commonwealth of Dominica",
+      "Dominica"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "Dominican Republic",
+    "iso3": "DOM",
+    "commonNames": [
+      "Dominican Republic"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "Ecuador",
+    "iso3": "ECU",
+    "commonNames": [
+      "Ecuador",
+      "Republic of Ecuador"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "Egypt, Arab Rep.",
+    "iso3": "EGY",
+    "commonNames": [
+      "Arab Republic of Egypt",
+      "Egypt, Arab Rep.",
+      "Egypt, Arab Republic of"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan"
+  },
+  {
+    "canonicalName": "El Salvador",
+    "iso3": "SLV",
+    "commonNames": [
+      "El Salvador",
+      "Republic of El Salvador"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "Equatorial Guinea",
+    "iso3": "GNQ",
+    "commonNames": [
+      "Equatorial Guinea",
+      "Republic of Equatorial Guinea"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Eritrea",
+    "iso3": "ERI",
+    "commonNames": [
+      "Eritrea",
+      "State of Eritrea"
+    ],
+    "incomeGroup": "Low income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Estonia",
+    "iso3": "EST",
+    "commonNames": [
+      "Estonia",
+      "Republic of Estonia"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Eswatini",
+    "iso3": "SWZ",
+    "commonNames": [
+      "Eswatini",
+      "Kingdom of Eswatini"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Ethiopia",
+    "iso3": "ETH",
+    "commonNames": [
+      "Ethiopia",
+      "Federal Democratic Republic of Ethiopia"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Faroe Islands",
+    "iso3": "FRO",
+    "commonNames": [
+      "Faroe Islands"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Fiji",
+    "iso3": "FJI",
+    "commonNames": [
+      "Fiji",
+      "Republic of Fiji"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "East Asia & Pacific"
+  },
+  {
+    "canonicalName": "Finland",
+    "iso3": "FIN",
+    "commonNames": [
+      "Finland",
+      "Republic of Finland"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "France",
+    "iso3": "FRA",
+    "commonNames": [
+      "France",
+      "French Republic"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "French Polynesia",
+    "iso3": "PYF",
+    "commonNames": [
+      "French Polynesia"
+    ],
+    "incomeGroup": "High income",
+    "region": "East Asia & Pacific"
+  },
+  {
+    "canonicalName": "Gabon",
+    "iso3": "GAB",
+    "commonNames": [
+      "Gabon",
+      "Gabonese Republic"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Gambia, The",
+    "iso3": "GMB",
+    "commonNames": [
+      "Gambia, The",
+      "Republic of The Gambia"
+    ],
+    "incomeGroup": "Low income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Georgia",
+    "iso3": "GEO",
+    "commonNames": [
+      "Georgia"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Germany",
+    "iso3": "DEU",
+    "commonNames": [
+      "Federal Republic of Germany",
+      "Germany"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Ghana",
+    "iso3": "GHA",
+    "commonNames": [
+      "Ghana",
+      "Republic of Ghana"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Gibraltar",
+    "iso3": "GIB",
+    "commonNames": [
+      "Gibraltar"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Greece",
+    "iso3": "GRC",
+    "commonNames": [
+      "Greece",
+      "Hellenic Republic"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Greenland",
+    "iso3": "GRL",
+    "commonNames": [
+      "Greenland"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Grenada",
+    "iso3": "GRD",
+    "commonNames": [
+      "Grenada"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "Guam",
+    "iso3": "GUM",
+    "commonNames": [
+      "Guam"
+    ],
+    "incomeGroup": "High income",
+    "region": "East Asia & Pacific"
+  },
+  {
+    "canonicalName": "Guatemala",
+    "iso3": "GTM",
+    "commonNames": [
+      "Guatemala",
+      "Republic of Guatemala"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "Guinea",
+    "iso3": "GIN",
+    "commonNames": [
+      "Guinea",
+      "Republic of Guinea"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Guinea-Bissau",
+    "iso3": "GNB",
+    "commonNames": [
+      "Guinea-Bissau",
+      "Republic of Guinea-Bissau"
+    ],
+    "incomeGroup": "Low income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Guyana",
+    "iso3": "GUY",
+    "commonNames": [
+      "Co-operative Republic of Guyana",
+      "Guyana"
+    ],
+    "incomeGroup": "High income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "Haiti",
+    "iso3": "HTI",
+    "commonNames": [
+      "Haiti",
+      "Republic of Haiti"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "Honduras",
+    "iso3": "HND",
+    "commonNames": [
+      "Honduras",
+      "Republic of Honduras"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "Hong Kong SAR, China",
+    "iso3": "HKG",
+    "commonNames": [
+      "Hong Kong SAR, China",
+      "Hong Kong Special Administrative Region of the People's Republic of China"
+    ],
+    "incomeGroup": "High income",
+    "region": "East Asia & Pacific"
+  },
+  {
+    "canonicalName": "Hungary",
+    "iso3": "HUN",
+    "commonNames": [
+      "Hungary"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Iceland",
+    "iso3": "ISL",
+    "commonNames": [
+      "Iceland",
+      "Republic of Iceland"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "India",
+    "iso3": "IND",
+    "commonNames": [
+      "India",
+      "Republic of India"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "South Asia"
+  },
+  {
+    "canonicalName": "Indonesia",
+    "iso3": "IDN",
+    "commonNames": [
+      "Indonesia",
+      "Republic of Indonesia"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "East Asia & Pacific"
+  },
+  {
+    "canonicalName": "Iran, Islamic Rep.",
+    "iso3": "IRN",
+    "commonNames": [
+      "Iran, Islamic Rep.",
+      "Iran, Islamic Republic of",
+      "Islamic Republic of Iran"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan"
+  },
+  {
+    "canonicalName": "Iraq",
+    "iso3": "IRQ",
+    "commonNames": [
+      "Iraq",
+      "Republic of Iraq"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan"
+  },
+  {
+    "canonicalName": "Ireland",
+    "iso3": "IRL",
+    "commonNames": [
+      "Ireland"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Isle of Man",
+    "iso3": "IMN",
+    "commonNames": [
+      "Isle of Man"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Israel",
+    "iso3": "ISR",
+    "commonNames": [
+      "Israel",
+      "State of Israel"
+    ],
+    "incomeGroup": "High income",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan"
+  },
+  {
+    "canonicalName": "Italy",
+    "iso3": "ITA",
+    "commonNames": [
+      "Italian Republic",
+      "Italy"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Jamaica",
+    "iso3": "JAM",
+    "commonNames": [
+      "Jamaica"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "Japan",
+    "iso3": "JPN",
+    "commonNames": [
+      "Japan"
+    ],
+    "incomeGroup": "High income",
+    "region": "East Asia & Pacific"
+  },
+  {
+    "canonicalName": "Jordan",
+    "iso3": "JOR",
+    "commonNames": [
+      "Hashemite Kingdom of Jordan",
+      "Jordan"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan"
+  },
+  {
+    "canonicalName": "Kazakhstan",
+    "iso3": "KAZ",
+    "commonNames": [
+      "Kazakhstan",
+      "Republic of Kazakhstan"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Kenya",
+    "iso3": "KEN",
+    "commonNames": [
+      "Kenya",
+      "Republic of Kenya"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Kiribati",
+    "iso3": "KIR",
+    "commonNames": [
+      "Kiribati",
+      "Republic of Kiribati"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "East Asia & Pacific"
+  },
+  {
+    "canonicalName": "Korea, Dem. People's Rep.",
+    "iso3": "PRK",
+    "commonNames": [
+      "Democratic People's Republic of Korea",
+      "Korea, Dem. People's Rep.",
+      "Korea, Democratic People\u2019s Republic of"
+    ],
+    "incomeGroup": "Low income",
+    "region": "East Asia & Pacific"
+  },
+  {
+    "canonicalName": "Korea, Rep.",
+    "iso3": "KOR",
+    "commonNames": [
+      "Korea",
+      "Korea, Rep.",
+      "Republic of Korea"
+    ],
+    "incomeGroup": "High income",
+    "region": "East Asia & Pacific"
+  },
+  {
+    "canonicalName": "Kosovo",
+    "iso3": "XKX",
+    "commonNames": [
+      "Kosovo",
+      "Republic of Kosovo"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Kuwait",
+    "iso3": "KWT",
+    "commonNames": [
+      "Kuwait",
+      "State of Kuwait"
+    ],
+    "incomeGroup": "High income",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan"
+  },
+  {
+    "canonicalName": "Kyrgyz Republic",
+    "iso3": "KGZ",
+    "commonNames": [
+      "Kyrgyz Republic"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Lao PDR",
+    "iso3": "LAO",
+    "commonNames": [
+      "Lao PDR",
+      "Lao People's Democratic Republic"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "East Asia & Pacific"
+  },
+  {
+    "canonicalName": "Latvia",
+    "iso3": "LVA",
+    "commonNames": [
+      "Latvia",
+      "Republic of Latvia"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Lebanon",
+    "iso3": "LBN",
+    "commonNames": [
+      "Lebanese Republic",
+      "Lebanon"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan"
+  },
+  {
+    "canonicalName": "Lesotho",
+    "iso3": "LSO",
+    "commonNames": [
+      "Kingdom of Lesotho",
+      "Lesotho"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Liberia",
+    "iso3": "LBR",
+    "commonNames": [
+      "Liberia",
+      "Republic of Liberia"
+    ],
+    "incomeGroup": "Low income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Libya",
+    "iso3": "LBY",
+    "commonNames": [
+      "Libya",
+      "Socialist People's Libyan Arab Jamahiriya"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan"
+  },
+  {
+    "canonicalName": "Liechtenstein",
+    "iso3": "LIE",
+    "commonNames": [
+      "Liechtenstein",
+      "Principality of Liechtenstein"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Lithuania",
+    "iso3": "LTU",
+    "commonNames": [
+      "Lithuania",
+      "Republic of Lithuania"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Luxembourg",
+    "iso3": "LUX",
+    "commonNames": [
+      "Grand Duchy of Luxembourg",
+      "Luxembourg"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Macao SAR, China",
+    "iso3": "MAC",
+    "commonNames": [
+      "Macao SAR, China",
+      "Macao Special Administrative Region of the People's Republic of China"
+    ],
+    "incomeGroup": "High income",
+    "region": "East Asia & Pacific"
+  },
+  {
+    "canonicalName": "Madagascar",
+    "iso3": "MDG",
+    "commonNames": [
+      "Madagascar",
+      "Republic of Madagascar"
+    ],
+    "incomeGroup": "Low income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Malawi",
+    "iso3": "MWI",
+    "commonNames": [
+      "Malawi",
+      "Republic of Malawi"
+    ],
+    "incomeGroup": "Low income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Malaysia",
+    "iso3": "MYS",
+    "commonNames": [
+      "Malaysia"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "East Asia & Pacific"
+  },
+  {
+    "canonicalName": "Maldives",
+    "iso3": "MDV",
+    "commonNames": [
+      "Maldives",
+      "Republic of Maldives"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "South Asia"
+  },
+  {
+    "canonicalName": "Mali",
+    "iso3": "MLI",
+    "commonNames": [
+      "Mali",
+      "Republic of Mali"
+    ],
+    "incomeGroup": "Low income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Malta",
+    "iso3": "MLT",
+    "commonNames": [
+      "Malta",
+      "Republic of Malta"
+    ],
+    "incomeGroup": "High income",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan"
+  },
+  {
+    "canonicalName": "Marshall Islands",
+    "iso3": "MHL",
+    "commonNames": [
+      "Marshall Islands",
+      "Republic of the Marshall Islands"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "East Asia & Pacific"
+  },
+  {
+    "canonicalName": "Mauritania",
+    "iso3": "MRT",
+    "commonNames": [
+      "Islamic Republic of Mauritania",
+      "Mauritania"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Mauritius",
+    "iso3": "MUS",
+    "commonNames": [
+      "Mauritius",
+      "Republic of Mauritius"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Mexico",
+    "iso3": "MEX",
+    "commonNames": [
+      "Mexico",
+      "United Mexican States"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "Micronesia, Fed. Sts.",
+    "iso3": "FSM",
+    "commonNames": [
+      "Federated States of Micronesia",
+      "Micronesia, Fed. Sts.",
+      "Micronesia, Federated States of"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "East Asia & Pacific"
+  },
+  {
+    "canonicalName": "Moldova",
+    "iso3": "MDA",
+    "commonNames": [
+      "Moldova",
+      "Republic of Moldova"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Monaco",
+    "iso3": "MCO",
+    "commonNames": [
+      "Monaco",
+      "Principality of Monaco"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Mongolia",
+    "iso3": "MNG",
+    "commonNames": [
+      "Mongolia"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "East Asia & Pacific"
+  },
+  {
+    "canonicalName": "Montenegro",
+    "iso3": "MNE",
+    "commonNames": [
+      "Montenegro"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Morocco",
+    "iso3": "MAR",
+    "commonNames": [
+      "Kingdom of Morocco",
+      "Morocco"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan"
+  },
+  {
+    "canonicalName": "Mozambique",
+    "iso3": "MOZ",
+    "commonNames": [
+      "Mozambique",
+      "Republic of Mozambique"
+    ],
+    "incomeGroup": "Low income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Myanmar",
+    "iso3": "MMR",
+    "commonNames": [
+      "Myanmar",
+      "Republic of the Union of Myanmar"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "East Asia & Pacific"
+  },
+  {
+    "canonicalName": "Namibia",
+    "iso3": "NAM",
+    "commonNames": [
+      "Namibia",
+      "Republic of Namibia"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Nauru",
+    "iso3": "NRU",
+    "commonNames": [
+      "Nauru",
+      "Republic of Nauru"
+    ],
+    "incomeGroup": "High income",
+    "region": "East Asia & Pacific"
+  },
+  {
+    "canonicalName": "Nepal",
+    "iso3": "NPL",
+    "commonNames": [
+      "Nepal"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "South Asia"
+  },
+  {
+    "canonicalName": "Netherlands",
+    "iso3": "NLD",
+    "commonNames": [
+      "Kingdom of the Netherlands",
+      "Netherlands"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "New Caledonia",
+    "iso3": "NCL",
+    "commonNames": [
+      "New Caledonia"
+    ],
+    "incomeGroup": "High income",
+    "region": "East Asia & Pacific"
+  },
+  {
+    "canonicalName": "New Zealand",
+    "iso3": "NZL",
+    "commonNames": [
+      "New Zealand"
+    ],
+    "incomeGroup": "High income",
+    "region": "East Asia & Pacific"
+  },
+  {
+    "canonicalName": "Nicaragua",
+    "iso3": "NIC",
+    "commonNames": [
+      "Nicaragua",
+      "Republic of Nicaragua"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "Niger",
+    "iso3": "NER",
+    "commonNames": [
+      "Niger",
+      "Republic of Niger"
+    ],
+    "incomeGroup": "Low income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Nigeria",
+    "iso3": "NGA",
+    "commonNames": [
+      "Federal Republic of Nigeria",
+      "Nigeria"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "North Macedonia",
+    "iso3": "MKD",
+    "commonNames": [
+      "North Macedonia",
+      "Republic of North Macedonia"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Northern Mariana Islands",
+    "iso3": "MNP",
+    "commonNames": [
+      "Commonwealth of the Northern Mariana Islands",
+      "Northern Mariana Islands"
+    ],
+    "incomeGroup": "High income",
+    "region": "East Asia & Pacific"
+  },
+  {
+    "canonicalName": "Norway",
+    "iso3": "NOR",
+    "commonNames": [
+      "Kingdom of Norway",
+      "Norway"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Oman",
+    "iso3": "OMN",
+    "commonNames": [
+      "Oman",
+      "Sultanate of Oman"
+    ],
+    "incomeGroup": "High income",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan"
+  },
+  {
+    "canonicalName": "Pakistan",
+    "iso3": "PAK",
+    "commonNames": [
+      "Islamic Republic of Pakistan",
+      "Pakistan"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan"
+  },
+  {
+    "canonicalName": "Palau",
+    "iso3": "PLW",
+    "commonNames": [
+      "Palau",
+      "Republic of Palau"
+    ],
+    "incomeGroup": "High income",
+    "region": "East Asia & Pacific"
+  },
+  {
+    "canonicalName": "Panama",
+    "iso3": "PAN",
+    "commonNames": [
+      "Panama",
+      "Republic of Panama"
+    ],
+    "incomeGroup": "High income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "Papua New Guinea",
+    "iso3": "PNG",
+    "commonNames": [
+      "Papua New Guinea",
+      "The Independent State of Papua New Guinea"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "East Asia & Pacific"
+  },
+  {
+    "canonicalName": "Paraguay",
+    "iso3": "PRY",
+    "commonNames": [
+      "Paraguay",
+      "Republic of Paraguay"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "Peru",
+    "iso3": "PER",
+    "commonNames": [
+      "Peru",
+      "Republic of Peru"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "Philippines",
+    "iso3": "PHL",
+    "commonNames": [
+      "Philippines",
+      "Republic of the Philippines"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "East Asia & Pacific"
+  },
+  {
+    "canonicalName": "Poland",
+    "iso3": "POL",
+    "commonNames": [
+      "Poland",
+      "Republic of Poland"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Portugal",
+    "iso3": "PRT",
+    "commonNames": [
+      "Portugal",
+      "Portuguese Republic"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Puerto Rico (US)",
+    "iso3": "PRI",
+    "commonNames": [
+      "Puerto Rico (US)"
+    ],
+    "incomeGroup": "High income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "Qatar",
+    "iso3": "QAT",
+    "commonNames": [
+      "Qatar",
+      "State of Qatar"
+    ],
+    "incomeGroup": "High income",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan"
+  },
+  {
+    "canonicalName": "Romania",
+    "iso3": "ROU",
+    "commonNames": [
+      "Romania"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Russian Federation",
+    "iso3": "RUS",
+    "commonNames": [
+      "Russian Federation"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Rwanda",
+    "iso3": "RWA",
+    "commonNames": [
+      "Republic of Rwanda",
+      "Rwanda"
+    ],
+    "incomeGroup": "Low income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Samoa",
+    "iso3": "WSM",
+    "commonNames": [
+      "Independent State of Samoa",
+      "Samoa"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "East Asia & Pacific"
+  },
+  {
+    "canonicalName": "San Marino",
+    "iso3": "SMR",
+    "commonNames": [
+      "Republic of San Marino",
+      "San Marino"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "S\u00e3o Tom\u00e9 and Principe",
+    "iso3": "STP",
+    "commonNames": [
+      "Democratic Republic of S\u00e3o Tom\u00e9 and Principe",
+      "S\u00e3o Tom\u00e9 and Principe"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Saudi Arabia",
+    "iso3": "SAU",
+    "commonNames": [
+      "Kingdom of Saudi Arabia",
+      "Saudi Arabia"
+    ],
+    "incomeGroup": "High income",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan"
+  },
+  {
+    "canonicalName": "Senegal",
+    "iso3": "SEN",
+    "commonNames": [
+      "Republic of Senegal",
+      "Senegal"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Serbia",
+    "iso3": "SRB",
+    "commonNames": [
+      "Republic of Serbia",
+      "Serbia"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Seychelles",
+    "iso3": "SYC",
+    "commonNames": [
+      "Republic of Seychelles",
+      "Seychelles"
+    ],
+    "incomeGroup": "High income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Sierra Leone",
+    "iso3": "SLE",
+    "commonNames": [
+      "Republic of Sierra Leone",
+      "Sierra Leone"
+    ],
+    "incomeGroup": "Low income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Singapore",
+    "iso3": "SGP",
+    "commonNames": [
+      "Republic of Singapore",
+      "Singapore"
+    ],
+    "incomeGroup": "High income",
+    "region": "East Asia & Pacific"
+  },
+  {
+    "canonicalName": "Sint Maarten (Dutch part)",
+    "iso3": "SXM",
+    "commonNames": [
+      "Sint Maarten (Dutch part)"
+    ],
+    "incomeGroup": "High income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "Slovak Republic",
+    "iso3": "SVK",
+    "commonNames": [
+      "Slovak Republic"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Slovenia",
+    "iso3": "SVN",
+    "commonNames": [
+      "Republic of Slovenia",
+      "Slovenia"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Solomon Islands",
+    "iso3": "SLB",
+    "commonNames": [
+      "Solomon Islands"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "East Asia & Pacific"
+  },
+  {
+    "canonicalName": "Somalia",
+    "iso3": "SOM",
+    "commonNames": [
+      "Somali Democratic Republic",
+      "Somalia"
+    ],
+    "incomeGroup": "Low income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "South Africa",
+    "iso3": "ZAF",
+    "commonNames": [
+      "Republic of South Africa",
+      "South Africa"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "South Sudan",
+    "iso3": "SSD",
+    "commonNames": [
+      "Republic of South Sudan",
+      "South Sudan"
+    ],
+    "incomeGroup": "Low income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Spain",
+    "iso3": "ESP",
+    "commonNames": [
+      "Kingdom of Spain",
+      "Spain"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Sri Lanka",
+    "iso3": "LKA",
+    "commonNames": [
+      "Democratic Socialist Republic of Sri Lanka",
+      "Sri Lanka"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "South Asia"
+  },
+  {
+    "canonicalName": "St. Kitts and Nevis",
+    "iso3": "KNA",
+    "commonNames": [
+      "St. Kitts and Nevis"
+    ],
+    "incomeGroup": "High income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "St. Lucia",
+    "iso3": "LCA",
+    "commonNames": [
+      "St. Lucia"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "St. Martin (French part)",
+    "iso3": "MAF",
+    "commonNames": [
+      "St. Martin (French part)"
+    ],
+    "incomeGroup": "High income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "St. Vincent and the Grenadines",
+    "iso3": "VCT",
+    "commonNames": [
+      "St. Vincent and the Grenadines"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "Sudan",
+    "iso3": "SDN",
+    "commonNames": [
+      "Republic of the Sudan",
+      "Sudan"
+    ],
+    "incomeGroup": "Low income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Suriname",
+    "iso3": "SUR",
+    "commonNames": [
+      "Republic of Suriname",
+      "Suriname"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "Sweden",
+    "iso3": "SWE",
+    "commonNames": [
+      "Kingdom of Sweden",
+      "Sweden"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Switzerland",
+    "iso3": "CHE",
+    "commonNames": [
+      "Switzerland"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Syrian Arab Republic",
+    "iso3": "SYR",
+    "commonNames": [
+      "Syrian Arab Republic"
+    ],
+    "incomeGroup": "Low income",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan"
+  },
+  {
+    "canonicalName": "Tajikistan",
+    "iso3": "TJK",
+    "commonNames": [
+      "Republic of Tajikistan",
+      "Tajikistan"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Tanzania",
+    "iso3": "TZA",
+    "commonNames": [
+      "Tanzania",
+      "United Republic of Tanzania"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Thailand",
+    "iso3": "THA",
+    "commonNames": [
+      "Kingdom of Thailand",
+      "Thailand"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "East Asia & Pacific"
+  },
+  {
+    "canonicalName": "Timor-Leste",
+    "iso3": "TLS",
+    "commonNames": [
+      "Democratic Republic of Timor-Leste",
+      "Timor-Leste"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "East Asia & Pacific"
+  },
+  {
+    "canonicalName": "Togo",
+    "iso3": "TGO",
+    "commonNames": [
+      "Republic of Togo",
+      "Togo"
+    ],
+    "incomeGroup": "Low income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Tonga",
+    "iso3": "TON",
+    "commonNames": [
+      "Kingdom of Tonga",
+      "Tonga"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "East Asia & Pacific"
+  },
+  {
+    "canonicalName": "Trinidad and Tobago",
+    "iso3": "TTO",
+    "commonNames": [
+      "Republic of Trinidad and Tobago",
+      "Trinidad and Tobago"
+    ],
+    "incomeGroup": "High income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "Tunisia",
+    "iso3": "TUN",
+    "commonNames": [
+      "Republic of Tunisia",
+      "Tunisia"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan"
+  },
+  {
+    "canonicalName": "T\u00fcrkiye",
+    "iso3": "TUR",
+    "commonNames": [
+      "Republic of T\u00fcrkiye",
+      "T\u00fcrkiye"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Turkmenistan",
+    "iso3": "TKM",
+    "commonNames": [
+      "Turkmenistan"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Turks and Caicos Islands",
+    "iso3": "TCA",
+    "commonNames": [
+      "Turks and Caicos Islands"
+    ],
+    "incomeGroup": "High income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "Tuvalu",
+    "iso3": "TUV",
+    "commonNames": [
+      "Tuvalu"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "East Asia & Pacific"
+  },
+  {
+    "canonicalName": "Uganda",
+    "iso3": "UGA",
+    "commonNames": [
+      "Republic of Uganda",
+      "Uganda"
+    ],
+    "incomeGroup": "Low income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Ukraine",
+    "iso3": "UKR",
+    "commonNames": [
+      "Ukraine"
+    ],
+    "incomeGroup": "Upper middle income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "United Arab Emirates",
+    "iso3": "ARE",
+    "commonNames": [
+      "United Arab Emirates"
+    ],
+    "incomeGroup": "High income",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan"
+  },
+  {
+    "canonicalName": "United Kingdom",
+    "iso3": "GBR",
+    "commonNames": [
+      "United Kingdom",
+      "United Kingdom of Great Britain and Northern Ireland"
+    ],
+    "incomeGroup": "High income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "United States",
+    "iso3": "USA",
+    "commonNames": [
+      "United States",
+      "United States of America"
+    ],
+    "incomeGroup": "High income",
+    "region": "North America"
+  },
+  {
+    "canonicalName": "Uruguay",
+    "iso3": "URY",
+    "commonNames": [
+      "Oriental Republic of Uruguay",
+      "Uruguay"
+    ],
+    "incomeGroup": "High income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "Uzbekistan",
+    "iso3": "UZB",
+    "commonNames": [
+      "Republic of Uzbekistan",
+      "Uzbekistan"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "Europe & Central Asia"
+  },
+  {
+    "canonicalName": "Vanuatu",
+    "iso3": "VUT",
+    "commonNames": [
+      "Republic of Vanuatu",
+      "Vanuatu"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "East Asia & Pacific"
+  },
+  {
+    "canonicalName": "Venezuela, RB",
+    "iso3": "VEN",
+    "commonNames": [
+      "Rep\u00fablica Bolivariana de Venezuela",
+      "Venezuela, RB",
+      "Venezuela, Rep\u00fablica Bolivariana de"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "Viet Nam",
+    "iso3": "VNM",
+    "commonNames": [
+      "Socialist Republic of Viet Nam",
+      "Viet Nam"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "East Asia & Pacific"
+  },
+  {
+    "canonicalName": "Virgin Islands (US)",
+    "iso3": "VIR",
+    "commonNames": [
+      "Virgin Islands (US)",
+      "Virgin Islands of the United States"
+    ],
+    "incomeGroup": "High income",
+    "region": "Latin America & Caribbean"
+  },
+  {
+    "canonicalName": "West Bank and Gaza",
+    "iso3": "PSE",
+    "commonNames": [
+      "West Bank and Gaza"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan"
+  },
+  {
+    "canonicalName": "Yemen, Rep.",
+    "iso3": "YEM",
+    "commonNames": [
+      "Republic of Yemen",
+      "Yemen, Rep.",
+      "Yemen, Republic of"
+    ],
+    "incomeGroup": "Low income",
+    "region": "Middle East, North Africa, Afghanistan & Pakistan"
+  },
+  {
+    "canonicalName": "Zambia",
+    "iso3": "ZMB",
+    "commonNames": [
+      "Republic of Zambia",
+      "Zambia"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Zimbabwe",
+    "iso3": "ZWE",
+    "commonNames": [
+      "Republic of Zimbabwe",
+      "Zimbabwe"
+    ],
+    "incomeGroup": "Lower middle income",
+    "region": "Sub-Saharan Africa"
+  },
+  {
+    "canonicalName": "Africa Eastern and Southern",
+    "iso3": "AFE",
+    "commonNames": [
+      "Africa Eastern and Southern"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "Africa Western and Central",
+    "iso3": "AFW",
+    "commonNames": [
+      "Africa Western and Central"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "Arab World",
+    "iso3": "ARB",
+    "commonNames": [
+      "Arab World"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "Caribbean small states",
+    "iso3": "CSS",
+    "commonNames": [
+      "Caribbean small states"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "Central Europe and the Baltics",
+    "iso3": "CEB",
+    "commonNames": [
+      "Central Europe and the Baltics"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "Early-demographic dividend",
+    "iso3": "EAR",
+    "commonNames": [
+      "Early-demographic dividend"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "East Asia & Pacific",
+    "iso3": "EAS",
+    "commonNames": [
+      "East Asia & Pacific"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "East Asia & Pacific (excluding high income)",
+    "iso3": "EAP",
+    "commonNames": [
+      "East Asia & Pacific (excluding high income)"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "East Asia & Pacific (IDA & IBRD)",
+    "iso3": "TEA",
+    "commonNames": [
+      "East Asia & Pacific (IDA & IBRD)"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "Euro area",
+    "iso3": "EMU",
+    "commonNames": [
+      "Euro area"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "Europe & Central Asia",
+    "iso3": "ECS",
+    "commonNames": [
+      "Europe & Central Asia"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "Europe & Central Asia (excluding high income)",
+    "iso3": "ECA",
+    "commonNames": [
+      "Europe & Central Asia (excluding high income)"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "Europe & Central Asia (IDA & IBRD)",
+    "iso3": "TEC",
+    "commonNames": [
+      "Europe & Central Asia (IDA & IBRD)"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "European Union",
+    "iso3": "EUU",
+    "commonNames": [
+      "European Union"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "Fragile and conflict affected situations",
+    "iso3": "FCS",
+    "commonNames": [
+      "Fragile and conflict affected situations"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "Heavily indebted poor countries (HIPC)",
+    "iso3": "HPC",
+    "commonNames": [
+      "Heavily indebted poor countries (HIPC)"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "High income",
+    "iso3": "HIC",
+    "commonNames": [
+      "High income"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "IBRD only",
+    "iso3": "IBD",
+    "commonNames": [
+      "IBRD only"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "IDA & IBRD total",
+    "iso3": "IBT",
+    "commonNames": [
+      "IDA & IBRD total"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "IDA blend",
+    "iso3": "IDB",
+    "commonNames": [
+      "IDA blend"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "IDA only",
+    "iso3": "IDX",
+    "commonNames": [
+      "IDA only"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "IDA total",
+    "iso3": "IDA",
+    "commonNames": [
+      "IDA total"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "Late-demographic dividend",
+    "iso3": "LTE",
+    "commonNames": [
+      "Late-demographic dividend"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "Latin America & Caribbean",
+    "iso3": "LCN",
+    "commonNames": [
+      "Latin America & Caribbean"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "Latin America & Caribbean (excluding high income)",
+    "iso3": "LAC",
+    "commonNames": [
+      "Latin America & Caribbean (excluding high income)"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "Latin America & Caribbean (IDA & IBRD)",
+    "iso3": "TLA",
+    "commonNames": [
+      "Latin America & Caribbean (IDA & IBRD)"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "Least developed countries: UN classification",
+    "iso3": "LDC",
+    "commonNames": [
+      "Least developed countries: UN classification"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "Low & middle income",
+    "iso3": "LMY",
+    "commonNames": [
+      "Low & middle income"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "Low income",
+    "iso3": "LIC",
+    "commonNames": [
+      "Low income"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "Lower middle income",
+    "iso3": "LMC",
+    "commonNames": [
+      "Lower middle income"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "Middle East, North Africa, Afghanistan & Pakistan",
+    "iso3": "MEA",
+    "commonNames": [
+      "Middle East, North Africa, Afghanistan & Pakistan"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",
+    "iso3": "MNA",
+    "commonNames": [
+      "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",
+    "iso3": "TMN",
+    "commonNames": [
+      "Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "Middle income",
+    "iso3": "MIC",
+    "commonNames": [
+      "Middle income"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "North America",
+    "iso3": "NAC",
+    "commonNames": [
+      "North America"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "OECD members",
+    "iso3": "OED",
+    "commonNames": [
+      "OECD members"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "Other small states",
+    "iso3": "OSS",
+    "commonNames": [
+      "Other small states"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "Pacific island small states",
+    "iso3": "PSS",
+    "commonNames": [
+      "Pacific island small states"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "Post-demographic dividend",
+    "iso3": "PST",
+    "commonNames": [
+      "Post-demographic dividend"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "Pre-demographic dividend",
+    "iso3": "PRE",
+    "commonNames": [
+      "Pre-demographic dividend"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "Small states",
+    "iso3": "SST",
+    "commonNames": [
+      "Small states"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "South Asia",
+    "iso3": "SAS",
+    "commonNames": [
+      "South Asia"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "South Asia (IDA & IBRD)",
+    "iso3": "TSA",
+    "commonNames": [
+      "South Asia (IDA & IBRD)"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "Sub-Saharan Africa",
+    "iso3": "SSF",
+    "commonNames": [
+      "Sub-Saharan Africa"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "Sub-Saharan Africa (excluding high income)",
+    "iso3": "SSA",
+    "commonNames": [
+      "Sub-Saharan Africa (excluding high income)"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "Sub-Saharan Africa (IDA & IBRD)",
+    "iso3": "TSS",
+    "commonNames": [
+      "Sub-Saharan Africa (IDA & IBRD)"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  },
+  {
+    "canonicalName": "Upper middle income",
+    "iso3": "UMC",
+    "commonNames": [
+      "Upper middle income"
+    ],
+    "incomeGroup": "Aggregate",
+    "region": "Aggregate"
+  }
+]

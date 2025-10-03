@@ -1,0 +1,18 @@
+venv/
+__pycache__/
+temp/
+logs/
+python/
+*.log
+*.pyc
+.idea/
+*.exe
+*.xls
+*.xlsx
+
+# Node.js / React dependency folder
+node_modules/
+chatbot-ui/node_modules/
+
+# React build output folder
+chatbot-ui/build/
