@@ -147,7 +147,7 @@ While GlobalPulse is a fully functional agent, there are many exciting paths for
 This project was a fantastic learning experience. Here are a few key takeaways:
 
 *   💡 **Choosing the Right LLM is a Balancing Act.** While testing, I found that the state-of-the-art **Claude 3.5 Sonnet** model was incredibly reliable at generating clean JSON, but it was also significantly more expensive than other models. Models like **Llama 3** proved to be the sweet spot, offering great instruction-following at a fraction of the cost.
-*   💡 **Older Models Struggle with Instruction Following.** Early experiments with models like `gpt-oss-20b` showed that while they were decent at reasoning, they often failed to stick to strict output formats (like "JSON only"), causing frequent parsing errors. Modern, instruction-tuned models are essential for this kind of agentic work.
+*   💡 **Reasoning Models Struggle with Instruction Following.** Early experiments with models like `gpt-oss-20b` showed that while they were decent at reasoning, they often failed to stick to strict output formats (like "JSON only"), causing frequent parsing errors. Modern, instruction-tuned models are essential for this kind of agentic work.
 *   💡 **Embrace Docker for AWS Lambda.** AWS Lambda has a hard limit of 256 MB for the unzipped size of a function and its layers. When using data science libraries like `pandas` and `pyarray`, you will hit this limit almost immediately. The solution is to deploy your Lambda function as a **Docker container image**, which gives you a much larger size limit (up to 10 GB).
 
 ## 📜 License
