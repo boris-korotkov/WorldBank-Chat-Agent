@@ -12,7 +12,6 @@ Seeing is believing! The chatbot is live and ready for you to try.
 
 **Live Demo URL:** **[https://main.d2e73777ni07tt.amplifyapp.com/](https://main.d2e73777ni07tt.amplifyapp.com/)**
 
-*(Feel free to add a GIF of your chatbot in action here!)*
 
 > ### Example Prompts to Get You Started:
 >
