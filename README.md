@@ -18,6 +18,7 @@ Seeing is believing! The chatbot is live and ready for you to try.
 >
 > *   `what was access to electricity in Brazil 10 years ago?`
 > *   `What was mobile subscriptions and access to electricity for Canada and Armenia for the last 3 years`
+> *   `What was mobile subscriptions in Canada in the last 5 years?`
 > *   `What indicators do you have available?`
 > *   `all GDP indicators for United States for last 10 years`
 
