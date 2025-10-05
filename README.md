@@ -20,6 +20,7 @@ Seeing is believing! The chatbot is live and ready for you to try.
 > *   `What was mobile subscriptions and access to electricity for Canada and Armenia for the last 3 years`
 > *   `all indicators for Canada for the last 10 years`
 > *   `What indicators do you have available?`
+> *   `all GDP indicators for United States for last 10 years`
 
 ---
 
@@ -111,6 +112,37 @@ graph TD
 *   ✅ **Conversational Context:** The bot can ask clarifying questions (e.g., "Do you want a list of all indicators?") and understand your "yes/no" follow-up.
 *   ✅ **Broad Data Requests:** Ask for "all indicators" for a country to get a comprehensive report.
 *   ✅ **Fully Serverless:** No servers to manage, and you only pay for what you use.
+
+
+## 🚀 Future Improvements
+
+While GlobalPulse is a fully functional agent, there are many exciting paths for future development. Here are a few ideas that build on the current architecture:
+
+*   **Advanced Data Aggregation and Analysis**
+    *   **The Idea:** Go beyond simple data retrieval and allow the user to perform calculations directly.
+    *   **The Solution:** Enhance the LLM's "Query Planner" to recognize and extract aggregation intents. The Lambda function would then perform calculations on the retrieved data. This would enable powerful queries like:
+        *   "What was the **average** GDP of Brazil, Argentina, and Chile over the last 10 years?"
+        *   "Show me the **maximum** inflation rate for Canada since 2000."
+        *   "What was the **total** population of all Nordic countries in 2023?"
+
+*   **In-Chat Data Visualization**
+    *   **The Idea:** Instead of just returning tables or Excel files, the agent could generate and display charts directly in the chat.
+    *   **The Solution:** The Lambda function could use a library like `Matplotlib` or `Seaborn` to create a chart (e.g., a line graph for a multi-year trend), save it as an image to S3, and return an `<img>` tag with a pre-signed URL to display it in the chat window.
+
+*   **Multi-Source Data Federation**
+    *   **The Idea:** Expand the agent's knowledge beyond the World Bank.
+    *   **The Solution:** Incorporate other structured economic datasets from sources like the **International Monetary Fund (IMF)** or the **OECD**. This would involve creating new data processing pipelines and expanding the vector index to include metadata from these new sources, turning GlobalPulse into an even more powerful economic research tool.
+
+*   **Enhanced Conversational Memory**
+    *   **The Challenge:** The current agent treats most queries as standalone requests.
+    *   **The Solution:** Implement a proper conversational memory using **Amazon DynamoDB**. This would allow for natural follow-up questions like:
+        *   User: "What was the GDP of Canada in 2022?"
+        *   Agent: *(Responds with the data)*
+        *   User: "What about for Germany?" (The agent would remember the indicator and year).
+
+*   **Proactive User Guidance with Suggestion Buttons**
+    *   **The Idea:** Make the agent even more user-friendly by suggesting next steps.
+    *   **The Solution:** After providing an answer, the agent could offer clickable suggestion buttons in the UI, such as "Compare with another country," "Show this data as a chart," or "See related indicators." This would guide the user's data exploration journey and make the chatbot feel more interactive.
 
 ## 📝 Developer's Notes & Key Learnings
 
