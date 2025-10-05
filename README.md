@@ -109,7 +109,6 @@ graph TD
     *   **HTML Tables:** For multi-year data for a single indicator.
     *   **Excel Reports:** For complex queries involving multiple indicators or countries.
 *   ✅ **Conversational Context:** The bot can ask clarifying questions (e.g., "Do you want a list of all indicators?") and understand your "yes/no" follow-up.
-*   ✅ **Broad Data Requests:** Ask for "all indicators" for a country to get a comprehensive report.
 *   ✅ **Fully Serverless:** No servers to manage, and you only pay for what you use.
 
 
