@@ -69,14 +69,15 @@ def plan_query_with_llm(user_query, candidate_metadata, country_list):
         candidate_info += f"- Code: {metadata.get('index_code')}, Name: {metadata.get('indicator_name')}\n"
     current_year = datetime.now().year
     
-    # --- THIS PROMPT IS UPDATED WITH A NEW RULE FOR "ALL INDICATORS" ---
+    # --- THIS IS THE FINAL, ROBUST PROMPT ---
+    # It combines the detailed format instructions with clarifying few-shot examples.
     prompt = f"""
 You are a data query planner that ONLY outputs a single, valid JSON object. Your entire response must be the JSON object itself and nothing else.
 
 **RULES:**
 - Do NOT add any reasoning, explanations, or conversational text.
-- Do NOT add any text before or after the JSON object.
 - Your response must be in one of the formats specified below.
+- For a query like "10 years ago", calculate that single year and set both 'start_year' and 'end_year' to that same year.
 
 **OUTPUT FORMATS:**
 1. For specific data queries, use this format:
@@ -90,13 +91,33 @@ You are a data query planner that ONLY outputs a single, valid JSON object. Your
    {{
      "action": "list_indicators"
    }}
-3. If the user asks for "all indicators" or "all data" for a specific country/region, use the special value ["all"] for the indicators field. Extract the countries and years as normal.
+3. If the user asks for a GROUP of indicators on a specific TOPIC (e.g., "all GDP indicators", "indicators related to health"), use this format. Extract the topic as a short string.
    {{
-     "indicators": ["all"],
+     "indicator_topic": "<the topic, e.g., GDP or health>",
      "countries": ["<country_name>"],
      "start_year": <YYYY>,
      "end_year": <YYYY>
    }}
+---
+**EXAMPLES:**
+
+**EXAMPLE 1 (Specific Indicator):**
+User's Query: "gdp for usa in 2022"
+{{
+  "indicators": ["NY.GDP.MKTP.CD"],
+  "countries": ["United States"],
+  "start_year": 222,
+  "end_year": 2022
+}}
+
+**EXAMPLE 2 (Relative Point-in-Time):**
+User's Query: "what was the population of Germany 5 years ago?"
+{{
+  "indicators": ["SP.POP.TOTL"],
+  "countries": ["Germany"],
+  "start_year": {current_year - 5},
+  "end_year": {current_year - 5}
+}}
 ---
 **TASK:**
 Now, analyze the following query and generate the JSON plan.
@@ -126,7 +147,7 @@ User's Query: "{user_query}"
     response_text = response_body.get('generation')
     print(f"LLM query plan raw response: {response_text}")
 
-    # The rest of the function remains the same...
+    # The rest of the function (JSON parsing) remains the same
     try:
         json_start_index = response_text.find('{')
         if json_start_index == -1: return None
@@ -206,30 +227,36 @@ def lambda_handler(event, context):
             sample_indicators = random.sample(all_indicators, k=min(3, len(all_indicators)))
             sample_names = [f"'{ind['indicator_name']}'" for ind in sample_indicators]
             prompt_message = (
-                f"I can provide data on over 100 indicators. For example: {', '.join(sample_names)}. "
+                f"I can provide data on over 200 indicators. For example: {', '.join(sample_names)}. "
                 "Would you like a full list of all available indicators as a downloadable text file?"
             )
             new_session_attributes = {"intentContext": "confirmIndicatorListDownload"}
             return format_lex_elicit_intent_with_context(prompt_message, new_session_attributes)
-        elif query_plan.get('indicators') == ["all"] and query_plan.get('countries'):
-            print("Handling 'all indicators' request. Building full indicator list.")
+        elif query_plan.get('indicator_topic') and query_plan.get('countries'):
+            topic = query_plan.get('indicator_topic')
             countries = query_plan.get('countries', [])
-            
-            # Manually build the list of all available indicator codes
-            all_indicator_codes = [meta['index_code'] for meta in id_to_metadata_map.values() if 'index_code' in meta]
-            
-            if not all_indicator_codes:
-                return format_lex_text_response("I'm sorry, I couldn't retrieve the master list of indicators.")
+            print(f"Handling indicator topic request for: '{topic}'")
 
-            # Fetch the data for all indicators
-            data_df = fetch_multi_indicator_data(all_indicator_codes, query_plan['start_year'], query_plan['end_year'], countries)
+            # Perform a keyword search through all indicator names to find the group
+            found_indicator_codes = [
+                meta['index_code'] for meta in id_to_metadata_map.values() 
+                if topic.lower() in meta.get('indicator_name', '').lower()
+            ]
+            
+            print(f"Found {len(found_indicator_codes)} indicators for topic: {topic}")
+
+            if not found_indicator_codes:
+                return format_lex_text_response(f"I'm sorry, I couldn't find any indicators related to '{topic}'.")
+
+            # Fetch the data for the found group of indicators
+            data_df = fetch_multi_indicator_data(found_indicator_codes, query_plan['start_year'], query_plan['end_year'], countries)
 
             if data_df is None or data_df.empty:
-                return format_lex_text_response(f"I understood your request, but couldn't find any data for the specified criteria.")
+                return format_lex_text_response(f"I understood your request for indicators related to '{topic}', but couldn't find any data for the specified criteria.")
             
             # Generate and return the Excel report
             download_url = generate_and_upload_report(data_df)
-            response_html = f"I have prepared the data for all available indicators for {', '.join(countries)}. <a href=\"{download_url}\" target=\"_blank\">Click here to download the report.</a>"
+            response_html = f"I have prepared a report with all indicators related to '{topic}' for {', '.join(countries)}. <a href=\"{download_url}\" target=\"_blank\">Click here to download the report.</a>"
             return format_lex_html_response(response_html)
 
         # Handle "normal" multi-indicator/multi-country requests
